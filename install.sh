@@ -14,4 +14,7 @@ go get -u github.com/tpng/gopkgs
 go get -u github.com/ramya-rao-a/go-outline
 go get -u github.com/motemen/gore/cmd/gore
 
+apm install atom-ide-ui
 apm install go-plus
+apm install go-debug
+apm install go-signature-statusbar
