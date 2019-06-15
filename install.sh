@@ -13,6 +13,7 @@ go get -u github.com/fatih/gomodifytags
 go get -u github.com/tpng/gopkgs
 go get -u github.com/ramya-rao-a/go-outline
 go get -u github.com/motemen/gore/cmd/gore
+go get -u github.com/derekparker/delve/cmd/dlv
 
 apm install atom-ide-ui
 apm install go-plus
